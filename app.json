@@ -9,9 +9,9 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
-    "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TheUltroid",
+    "repository": "https://github.com/rabeehip/Ultroid-User-Bot",
+    "website": "https://rabeehip.cf",
+    "success_url": "https://t.me/rabeehip",
     "stack": "container",
     "env": {
         "API_ID": {
