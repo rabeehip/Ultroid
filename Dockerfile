@@ -10,7 +10,7 @@ ENV TZ=Asia/Kolkata
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 # clone the repo and change workdir
-RUN git clone https://github.com/rabeehip/Ultroid-User-Bot.git /root/rabeehip/
+RUN git clone https://github.com/rabeehip/Ultroid.git /root/rabeehip/
 WORKDIR /root/rabeehip/
 
 # install main requirements.
